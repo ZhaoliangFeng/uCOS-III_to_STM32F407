@@ -1,0 +1,15 @@
+..\output\stm32f4xx_it.o: ..\BSP\stm32f4xx_it.c
+..\output\stm32f4xx_it.o: ..\BSP\stm32f4xx_it.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\stm32f4xx.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm4.h
+..\output\stm32f4xx_it.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\stm32f4xx_it.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\output\stm32f4xx_it.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\output\stm32f4xx_it.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\system_stm32f4xx.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\STM32F4XX_CONF_H\stm32f4xx_conf.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\stm32f4xx.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
+..\output\stm32f4xx_it.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\misc.h

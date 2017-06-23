@@ -1,0 +1,15 @@
+..\output\led.o: ..\BSP\led.c
+..\output\led.o: ..\BSP\led.h
+..\output\led.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\stm32f4xx.h
+..\output\led.o: ..\STM32_StdPeriph_Library\CMSIS\CoreSupport\core_cm4.h
+..\output\led.o: D:\Keil_v5\ARM\ARMCC\bin\..\include\stdint.h
+..\output\led.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmInstr.h
+..\output\led.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cmFunc.h
+..\output\led.o: D:\Keil_v5\ARM\PACK\ARM\CMSIS\4.1.1\CMSIS\Include\core_cm4_simd.h
+..\output\led.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\system_stm32f4xx.h
+..\output\led.o: ..\STM32_StdPeriph_Library\STM32F4XX_CONF_H\stm32f4xx_conf.h
+..\output\led.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h
+..\output\led.o: ..\STM32_StdPeriph_Library\CMSIS\DeviceSupport\ST\STM32F4xx\stm32f4xx.h
+..\output\led.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h
+..\output\led.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h
+..\output\led.o: ..\STM32_StdPeriph_Library\STM32F4xx_StdPeriph_Driver\inc\misc.h
